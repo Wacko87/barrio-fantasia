@@ -1,0 +1,24 @@
+{
+  "name": "Barrio de Fantasía",
+  "short_name": "Barrio Fantasía",
+  "description": "App para gestión de fútbol 6/7, notas, predicciones y liga fantasy",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c1728",
+  "theme_color": "#0c1728",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512-solid.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

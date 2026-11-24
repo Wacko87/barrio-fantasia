@@ -1,0 +1,25 @@
+# Entorno y credenciales sensibles
+.env
+.env.*
+!.env.example
+
+# Dependencias
+node_modules/
+
+# Datos persistentes y respaldos
+data/
+*.sql
+*.bak
+*.dump
+
+# Sistema y logs
+.DS_Store
+*.log
+npm-debug.log*
+
+# Despliegue de infraestructura privada e instrucciones locales
+sync-to-unraid.sh
+docker-compose.yml
+INSTRUCCIONES-para-Claude-Code.md
+LEEME-instalacion.md
+
